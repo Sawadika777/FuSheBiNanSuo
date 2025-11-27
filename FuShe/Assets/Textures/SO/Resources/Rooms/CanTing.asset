@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b15f30c41dd6843439f80c878d4c0c7a, type: 3}
+  m_Name: CanTing
+  m_EditorClassIdentifier: 
+  index: 4
+  name: "\u9910\u5385"
+  cover: {fileID: 21300000, guid: d812b814b0b64434685a9a2249bdd1c5, type: 3}
+  product: {fileID: 21300000, guid: dde4ba0ab4b7673459c15162d8580050, type: 3}
+  desc: "\u5C06\u5C45\u6C11\u5206\u914D\u5728\u8FD9\u91CC\u751F\u4EA7\u98DF\u7269"
+  property: 65
+  money: 175
+  modelPath: Models/CaTing/Canting11
